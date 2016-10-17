@@ -1,4 +1,4 @@
-# Personal Website of Guo Zhang
+# Guo Zhang's Website
 
 ## Website Page
 https://guo-zhang.github.io
