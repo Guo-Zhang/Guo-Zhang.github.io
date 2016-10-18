@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Bookmarks
 permalink: /bookmarks/
 ---
 
@@ -17,7 +16,7 @@ permalink: /bookmarks/
 
 
 
-## Computer Science and Software Engineering
+## Computer Science
 -------
 
 * [xlzd杂谈](http://xlzd.me/)

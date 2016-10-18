@@ -9,10 +9,10 @@ github: https://github.com/Guo-Zhang
 zhihu: https://www.zhihu.com/people/zhang_guo
 
 baseurl: ""
-description: Third-year Undergraduate of WISE, Xiamen University
+description: Junior Undergraduate of WISE, Xiamen University
 meta_description: Guo Zhang
 motto: Guo Zhang
-banner: WISE, Xiamen University
+banner: Junior Undergraduate of WISE, Xiamen University
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -30,9 +30,9 @@ FB:
   comments :
     provider : duoshuo
     duoshuo:
-        short_name : luoyan35714
+        short_name : iGuo
     disqus :
-        short_name : freudkang
+        short_name : iGuo
     # facebook :
     #   appid : 123
     #   num_posts: 5

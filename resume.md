@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Bookmarks
-permalink: /bookmarks/
+permalink: /resume
 ---
 
 * content
