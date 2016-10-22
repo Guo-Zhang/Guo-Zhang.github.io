@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Data Analysis with Stata
 date:   2016-10-22
 categories: Stata
 ---

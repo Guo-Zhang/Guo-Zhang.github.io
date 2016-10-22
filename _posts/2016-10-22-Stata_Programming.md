@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Programming
 date:   2016-10-22
 categories: Stata
 ---
