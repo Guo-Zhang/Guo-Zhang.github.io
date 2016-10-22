@@ -16,6 +16,6 @@ A Personal Website for Guo Zhang from WISE, Xiamen University.
 ## test
 
 ji|ji|ji
-----
+-|---
 ji|ji|ju
 JI|ji|ji
