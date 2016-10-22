@@ -13,6 +13,8 @@ A Personal Website for Guo Zhang from WISE, Xiamen University.
 - Blogs: both by categories(with several arrangements) and by tags
 - Research, Bookmarks, Resume, Contract: Complete the whole page
 
+## test
+
 ji|ji|ji
 ----
 ji|ji|ju
