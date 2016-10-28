@@ -3,7 +3,7 @@
 ----
 
 ## Website Page
-https://guo-zhang.github.io
+[Guo Zhang](https://guo-zhang.github.io)
 
 ## Description
 A Personal Website for Guo Zhang from WISE, Xiamen University.
@@ -12,4 +12,5 @@ A Personal Website for Guo Zhang from WISE, Xiamen University.
 - Home: a good template
 - Blogs: both by categories(with several arrangements) and by tags
 - Research, Bookmarks, Resume, Contract: Complete the whole page
+
 
