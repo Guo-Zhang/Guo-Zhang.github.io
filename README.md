@@ -9,10 +9,18 @@
 A Personal Website for Guo Zhang from WISE, Xiamen University.
 
 ## To be continue
-- Blogs: both by categories(with several arrangements) and by tags
-- Research, Bookmarks, Resume, Contract: Complete the whole page
-- 调整目录栏间距，调整小一些
-- 调整图片，把logo换成自己的
-- 调整标题的对齐方式，增强层次感
-- 调整标题排版方式
+- 内容
+  - Home 添加内容
+  - Research 添加内容
+  - Resume 修改内容
+  - Contract Me 修改地址
+
+- 格式
+  - 调整目录栏宽度
+  - 更换图片
+  - 调整文章标题格式，增加层次感
+
+- 功能
+  - Blogs 调整分类方式
+
 
