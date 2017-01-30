@@ -23,4 +23,6 @@ A Personal Website for Guo Zhang from WISE, Xiamen University.
 - 功能
   - Blogs 调整分类方式
 
+- Bug
+  - 外部插入HTML，比如简历，无法同步更新
 
