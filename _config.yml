@@ -4,8 +4,8 @@ email: zhangguo@stu.xmu.edu.cn
 author: Guo Zhang
 url: http://zhangguo.github.io
 
-linkedin: https://www.linkedin.com/in/zhangguo
 github: https://github.com/Guo-Zhang
+linkedin: https://www.linkedin.com/in/zhangguo
 zhihu: https://www.zhihu.com/people/zhang_guo
 
 baseurl: ""
@@ -18,7 +18,7 @@ banner: Junior Undergraduate of WISE, Xiamen University
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','run.bat','help.md']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','run.bat','run.sh','help.md']
 
 github_username: Guo-Zhang
 highlighter: rouge
