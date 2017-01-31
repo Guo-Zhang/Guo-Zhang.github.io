@@ -35,27 +35,6 @@ Search Design of China Online Retailers Platforms
 ------
 
 
-Managers Corpus Mining of China Listed Companies
--------
-
-### Subject
- - Managers Corpus Mining from Annual Reports of China Listed Companies
-
-### Schedule
- - March 2016 ~ Present
-
-### Role
- - Second Author
-
-### Team
- - Managers Corpus Mining Project at Xiamen University
-
-### Proposal 
- - [Proposal]()
-
-------
-
-
 Trust Mechanism of China Airbnb-Like Markets 
 -------
 
@@ -75,6 +54,27 @@ Trust Mechanism of China Airbnb-Like Markets
  - [Proposal]()
 
 ----
+
+
+Managers Corpus Mining of China Listed Companies
+-------
+
+### Subject
+ - Managers Corpus Mining from Annual Reports of China Listed Companies
+
+### Schedule
+ - March 2016 ~ Present
+
+### Role
+ - Second Author
+
+### Team
+ - Managers Corpus Mining Project at Xiamen University
+
+### Proposal 
+ - [Proposal]()
+
+------
 
 
 985 Staffs Database 

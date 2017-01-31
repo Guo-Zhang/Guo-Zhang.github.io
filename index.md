@@ -1,6 +1,44 @@
 ---
-layout: default
+layout: post
 ---
+
+* content
+{:toc}
+
+
+Self-Introduction
+-----------------
+
+- About me
+  - Junior Undergraduate of WISE, Xiamen University
+  - B.A. in Economics as Major, B.A. in Statistics as Minor, Programming Learner
+  - Preparing for PhD in Computational Economics/ Social Science
+  - Interested in mechanism design of online platforms
+- [Resume]()
+- [Contract Me]()
+
+
+Research
+--------
+
+XXXXXXXXXX
+
+- Search Design of China Online Retailers Platforms
+
+
+Blogs
+-----
+
+- Example
+
+
+Bookmarks
+---------
+
+- Example
+
+
+
 <!--
  <div class="container docs-container">
       <div class="row">
