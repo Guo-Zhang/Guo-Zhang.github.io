@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Contract Me"
 date:   2017-01-30 
 permalink: /contract
 ---
