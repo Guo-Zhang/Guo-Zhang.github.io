@@ -8,6 +8,11 @@ permalink: /research
 {:toc}
 
 
+撕破“中国特色”这个面纱，告诉社会科学的共同体，告诉世界，很多之前我们观测到的异像，并不是“中国特色”这个自我边缘化的概念引致的，而是某些只有中国数据可以喻示，从其他国家的数据难以发现的人类共性所引致的。
+
+--------
+--------
+
 Search Design of China Online Retailers Platforms
 -------
 
@@ -26,6 +31,8 @@ Search Design of China Online Retailers Platforms
 
 ### Proposal
  - [Proposal]()
+
+------
 
 
 Managers Corpus Mining of China Listed Companies
@@ -46,6 +53,9 @@ Managers Corpus Mining of China Listed Companies
 ### Proposal 
  - [Proposal]()
 
+------
+
+
 Trust Mechanism of China Airbnb-Like Markets 
 -------
 
@@ -64,6 +74,9 @@ Trust Mechanism of China Airbnb-Like Markets
 ### Proposal
  - [Proposal]()
 
+----
+
+
 985 Staffs Database 
 ----
 
@@ -81,6 +94,9 @@ Trust Mechanism of China Airbnb-Like Markets
 
 ### Proposal
  - [Proposal]()
+
+-----
+
 
 Industrial Organization of China Uber-Like Markets
 -------

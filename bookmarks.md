@@ -7,16 +7,16 @@ permalink: /bookmarks/
 {:toc}
 
 
-## Economics and Finance
+Economics and Finance
 -------
 
 
-## Mathematical Science
+Mathematical Science
 -------
 
 
 
-## Computer Science
+Computer Science
 -------
 
 * [xlzd杂谈](http://xlzd.me/)
