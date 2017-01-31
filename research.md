@@ -30,6 +30,7 @@ Search Design of China Online Retailers Platforms
 
 Managers Corpus Mining of China Listed Companies
 -------
+
 ### Subject
  - Managers Corpus Mining from Annual Reports of China Listed Companies
 
@@ -47,6 +48,7 @@ Managers Corpus Mining of China Listed Companies
 
 Trust Mechanism of China Airbnb-Like Markets 
 -------
+
 ### Subject
  - Trust Mechanism of China Short Rent Markets: Evidence from Xiamen
 
@@ -64,6 +66,7 @@ Trust Mechanism of China Airbnb-Like Markets
 
 985 Staffs Database 
 ----
+
 ### Subject
  - 985 Staffs Database
 
@@ -81,6 +84,7 @@ Trust Mechanism of China Airbnb-Like Markets
 
 Industrial Organization of China Uber-Like Markets
 -------
+
 ### Subject
  - industrial Organization of Didi Sepcial Car Markets: Evidence from Xiamen
 
