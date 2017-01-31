@@ -7,16 +7,8 @@ permalink: /bookmarks/
 {:toc}
 
 
-Economics and Finance
--------
 
-
-Mathematical Science
--------
-
-
-
-Computer Science
+IT Blogs
 -------
 
 * [xlzd杂谈](http://xlzd.me/)
@@ -24,4 +16,6 @@ Computer Science
 
 
 
-
+Resume Making
+------
+- [The Markdown Resume](https://mszep.github.io/pandoc_resume/)
