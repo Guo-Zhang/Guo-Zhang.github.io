@@ -8,11 +8,11 @@ permalink: /research
 {:toc}
 
 
-Search Design of China Online Retailers Platform 
+Search Design of China Online Retailers Platforms
 -------
 
 ### Subject
- - Ranking Obfuscation on China Online Retailers Platform: Evidence from Tmall and JD
+ - Ranking Obfuscation on Online Retailers Platform: Evidence from JD
 
 ### Schedule
  - Nov. 2016 ~ Present
@@ -28,36 +28,70 @@ Search Design of China Online Retailers Platform
  - [Proposal]()
 
 
-Managers Corpus Mining of China Listed Company
+Managers Corpus Mining of China Listed Companies
 -------
 ### Subject
- -
+ - Managers Corpus Mining from Annual Reports of China Listed Companies
 
 ### Schedule
  - March 2016 ~ Present
 
 ### Role
- - Second Author, 
+ - Second Author
 
+### Team
+ - Managers Corpus Mining Project at Xiamen University
+
+### Proposal 
+ - [Proposal]()
 
 Trust Mechanism of China Airbnb-Like Markets 
 -------
 ### Subject
- - 
+ - Trust Mechanism of China Short Rent Markets: Evidence from Xiamen
 
 ### Schedule
- -
+ - May 2016 ~ Present
 
 ### Role
- - 
+ - Academic Guidance
+
+### Team
+ - Zuqizhisheng Social Practice Team at Xiamen University
+
+### Proposal
+ - [Proposal]()
+
+985 Staffs Database 
+----
+### Subject
+ - 985 Staffs Database
+
+### Schedule
+ - August 2015 ~ Present
+
+### Role
+ - Member
+
+### Team
+ - 985 Staffs Database
+
+### Proposal
+ - [Proposal]()
 
 Industrial Organization of China Uber-Like Markets
 -------
 ### Subject
-
+ - industrial Organization of Didi Sepcial Car Markets: Evidence from Xiamen
 
 ### Schedule
-
+ - May 2015 ~ Present
 
 ### Role
+ - Member
 
+### Team
+  - Qincheshuli Social Practice Team at Xiamen University
+
+### Proposal
+  - [Proposal]() 
