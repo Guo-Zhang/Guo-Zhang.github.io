@@ -37,6 +37,11 @@ Programming
 ### Pandas
 
 - [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+  * [Indexing](http://pandas.pydata.org/pandas-docs/stable/indexing.html)
+      * [pandas.DataFrame.set_index](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.set_index.html)
+      * [pandas.DataFrame.reset_index](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.reset_index.html)
+  * [Time Series](http://pandas.pydata.org/pandas-docs/stable/timeseries.html)
+      * [pandas.to_datetime](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.to_datetime.html)
   * [IO Tools](http://pandas.pydata.org/pandas-docs/stable/io.html)
 
 
