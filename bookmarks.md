@@ -27,7 +27,7 @@ Programming
 ### MongoDB
 
 - Quick Start
-  * [MongoDB 教程|菜鸟教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)
+  * [MongoDB 教程\|菜鸟教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)
 
 - [PyMongo Documentation](http://api.mongodb.com/python/current/)
 
