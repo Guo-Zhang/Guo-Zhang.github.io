@@ -24,6 +24,11 @@ Programming
   * [Beautiful Soup 文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 
 
+### JavaScript 
+
+- Quick Start
+  * [JavaScript 教程\|菜鸟教程](http://www.runoob.com/js/js-tutorial.html)
+
 ### MongoDB
 
 - Quick Start
