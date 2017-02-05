@@ -53,8 +53,13 @@ Programming
 Tools 
 -----
 
+### Windows
+- LaTeX
+  * [Sublime+SumatraPDF for LaTeX](http://www.jianshu.com/p/51ae1bb01885)
+
 ### Mac
-- [Sublime+Skim for LaTeX](http://painterlin.com/2014/08/10/Using-LaTeX-with-Sublime-and-Skim-for-Mac.html)
+- LaTeX
+  * [Sublime+Skim for LaTeX](http://painterlin.com/2014/08/10/Using-LaTeX-with-Sublime-and-Skim-for-Mac.html)
 
 ### Sublime Text 3
 - [SublimeREPL](http://sublimerepl.readthedocs.io/en/latest/)
