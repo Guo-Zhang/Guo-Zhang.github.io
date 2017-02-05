@@ -56,6 +56,12 @@ Tools
 ### Mac
 - [Sublime+Skim for LaTeX](http://painterlin.com/2014/08/10/Using-LaTeX-with-Sublime-and-Skim-for-Mac.html)
 
+### Sublime Text 3
+- [SublimeREPL](http://sublimerepl.readthedocs.io/en/latest/)
+  * [Python控制台输入](https://github.com/CellerX/blog_md/blob/master/Python_让Sublime%20Text控制台支持输入.md)
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+
 
 Resume
 ------
