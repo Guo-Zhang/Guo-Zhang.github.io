@@ -29,6 +29,7 @@ Programming
 - Quick Start
   * [JavaScript 教程\|菜鸟教程](http://www.runoob.com/js/js-tutorial.html)
 
+
 ### MongoDB
 
 - Quick Start
@@ -38,6 +39,7 @@ Programming
   * [Aggregation Framework](http://api.mongodb.com/python/current/examples/aggregation.html#aggregation-framework)
   * [Map/Reduce](http://api.mongodb.com/python/current/examples/aggregation.html#map-reduce)
   * [Group](http://api.mongodb.com/python/current/examples/aggregation.html#group)
+
 
 ### Pandas
 
@@ -50,24 +52,41 @@ Programming
   * [IO Tools](http://pandas.pydata.org/pandas-docs/stable/io.html)
 
 
+
 Tools 
 -----
 
 ### Windows
+
 - LaTeX
   * [Sublime+SumatraPDF for LaTeX](http://www.jianshu.com/p/51ae1bb01885)
 
+
 ### Mac
+
 - LaTeX
   * [Sublime+Skim for LaTeX](http://painterlin.com/2014/08/10/Using-LaTeX-with-Sublime-and-Skim-for-Mac.html)
 
+
 ### Sublime Text 3
+
+- [LaTeXing](http://www.latexing.com/)
+
 - [SublimeREPL](http://sublimerepl.readthedocs.io/en/latest/)
   * [Python控制台输入](https://github.com/CellerX/blog_md/blob/master/Python_让Sublime%20Text控制台支持输入.md)
+
 - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+
 
 
 Resume
 ------
 - [The Markdown Resume](https://mszep.github.io/pandoc_resume/)
+
+
+Entertainment
+-------------
+- [西游记]
+  * [全面解读名著《西游记》的智慧和阴谋 - 百度贴吧](http://tieba.baidu.com/p/4218821213)
