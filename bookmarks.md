@@ -8,6 +8,16 @@ permalink: /bookmarks/
 
 
 
+Economics
+---------
+
+- A/B Test and RCT
+  * [A/B Test](https://en.wikipedia.org/wiki/A/B_testing)
+  * [RCT](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+  * [Differences](https://ongamesndata.wordpress.com/2015/09/22/ab-testing-and-rcts-101/)
+    * [A/B](https://hbr.org/2014/02/ab-testing-and-the-benefits-of-an-experimentation-culture) and [RCT](https://hbr.org/2016/03/a-refresher-on-randomized-controlled-experiments)
+
+
 Programming
 -------
 
@@ -63,10 +73,14 @@ Tools
 
 
 ### Mac
+- Java
+  * [jEnv: Java多版本工具](http://boxingp.github.io/blog/2015/01/25/manage-multiple-versions-of-java-on-os-x/)
 
 - LaTeX
   * [Sublime+Skim for LaTeX](http://painterlin.com/2014/08/10/Using-LaTeX-with-Sublime-and-Skim-for-Mac.html)
 
+- 抓包软件
+  * [Charles](http://bbs.utest.qq.com/283)
 
 ### Sublime Text 3
 
