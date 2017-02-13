@@ -62,7 +62,7 @@ Programming
   * [IO Tools](http://pandas.pydata.org/pandas-docs/stable/io.html)
 
 
-Literatures
+Literature
 -----------
  - [《水浒传》《红楼梦》的逻辑与反逻辑](http://www.360doc.com/content/15/0712/13/21897053_484410731.shtml)
 
@@ -97,6 +97,11 @@ Tools
 
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 
+
+Research
+--------
+
+- [Writing a research proposal](http://libguides.usc.edu/writingguide/researchproposal)
 
 
 Resume
