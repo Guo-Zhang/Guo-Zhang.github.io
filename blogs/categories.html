@@ -1,7 +1,25 @@
 ---
-layout: default
-header: Posts By Category
+title: Blogs (by Categories)
+header: Posts by Categories
 ---
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="index">
+
+    {% include header.html %}
+    <div class="docs-header" id="content">
+     <div class="container">
+      <h1>Blogs</h1>
+      <p>{{ page.header }}</p>
+      </div>
+    </div>
+
+
+<div class="container docs-container">
+  <div class="col-md-9" role="main">
 
 <div class="container docs-container">
   <div class="row">
@@ -44,3 +62,13 @@ header: Posts By Category
     </div>
   </div>
 </div>
+
+    </div>
+
+</div>
+
+    
+    {% include footer.html %}
+
+  </body>
+</html>

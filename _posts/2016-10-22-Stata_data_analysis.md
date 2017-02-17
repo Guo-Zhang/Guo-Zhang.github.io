@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: blog
 title:  Data Analysis with Stata
 date:   2016-10-22
-categories: Stata
+courses: Stata
 ---
 
 # Data Analysis

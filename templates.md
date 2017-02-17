@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Templates
 date: 2017-02-13
 permalink: /templates
 ---

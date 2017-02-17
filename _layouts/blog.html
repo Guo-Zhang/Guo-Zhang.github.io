@@ -1,6 +1,16 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="index">
+
+    {% include header.html %}
+    {% include docs_header.html %}
+    {% if page.title %}
+      {% include banner.html %}
+    {% endif %}
+
 <div class="container docs-container">
   <div class="row">
     <div class="col-md-3">
@@ -16,7 +26,8 @@ layout: default
               <!--
                 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
               -->
-              <div class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span> 
+              <div class="meta">
+                 Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span> 
               <!--
               By <a target="_blank" href="{{site.url}}">{{ site.author }}</a></div>
               -->
@@ -37,3 +48,10 @@ layout: default
     </div>
   </div>
 </div>
+
+
+    {% include footer.html %}
+
+  </body>
+</html>
+

@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: blog
 title:  Programming
 date:   2016-10-22
 categories: Stata
+tags: Stata
 ---
 
 

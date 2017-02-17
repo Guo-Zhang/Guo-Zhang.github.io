@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: default
 ---
-
-* content
-{:toc}
 
 
 Self-Introduction
@@ -14,14 +11,10 @@ Self-Introduction
   - B.A. in Economics as Major, B.A. in Statistics as Minor, Programming Learner
   - Preparing for PhD in Computational Economics/ Social Science
   - Interested in mechanism design of online platforms
-- [Resume]()
-- [Contract Me]()
 
 
 Research
 --------
-
-XXXXXXXXXX
 
 - Search Design of China Online Retailers Platforms
 

@@ -1,14 +1,20 @@
 <div class="docs-header" id="content">
-  <div class="container">
-  	{% if page.title%}
-  		<!--
-		    <h1>{{ page.title }}</h1>
+  <div class="container"> 
+  {% if page.raw_title %}
+      <h1>{{ site.name }}</h1>
+      <p>{{ site.description }}</p>
+  {% else %}   
+  	{% if page.title %}
+  		<h1>{{ page.title }}</h1>
+  		{% if page.date %}
 		    <p>Post on {{ page.date | date: "%b %d, %Y" }} by <a href="/about">{{ site.author }}</a></p>
-		-->
-		    <h1>{{ site.motto }}</h1>
+        {% else %}
+		    <p>Post by <a href="/about">{{ site.author }}</a></p>
+		  {% endif %}
     {% else %}
 	    <h1>{{ site.name }}</h1>
 	    <p>{{ site.description }}</p>
     {% endif %}
+  {% endif %}
   </div>
 </div>

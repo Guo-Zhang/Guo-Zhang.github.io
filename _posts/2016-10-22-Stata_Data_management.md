@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: blog
 title:  Data Management
 date:   2016-10-22
 categories: Stata
+tags: Stata
 ---
 
 

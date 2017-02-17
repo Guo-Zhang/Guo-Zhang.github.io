@@ -2,20 +2,23 @@
 name: Guo Zhang
 email: zhangguo@stu.xmu.edu.cn
 author: Guo Zhang
-url: http://zhangguo.github.io
+url: http://zhangguo.me
 
 github: https://github.com/Guo-Zhang
 linkedin: https://www.linkedin.com/in/zhangguo
 zhihu: https://www.zhihu.com/people/zhang_guo
 
 baseurl: ""
-description: Junior Undergraduate of WISE, Xiamen University
+description: Undergraduate Accelerated Program in Economics,
+             WISE, Xiamen University
 meta_description: Guo Zhang
 motto: Guo Zhang
-banner: Junior Undergraduate of WISE, Xiamen University
+banner: Undergraduate Accelerated Program in Economics,
+        WISE, Xiamen University
 
 #permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
+#permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','run.bat','run.sh','help.md']

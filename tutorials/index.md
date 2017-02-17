@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Tutorials
 header: Posts by Courses
 ---
 <html>
@@ -11,7 +11,7 @@ header: Posts by Courses
     {% include header.html %}
 <div class="docs-header" id="content">
   <div class="container">
-    <h1>Notes</h1>
+    <h1>Tutorials</h1>
       <p>{{ page.header }}</p>
       </div>
     </div>

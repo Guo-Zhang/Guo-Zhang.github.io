@@ -1,42 +1,40 @@
 ---
-title: Notes
-header: Posts by Courses
+title: Blogs (by Tags)
+header: Posts By Tags
 ---
+<!DOCTYPE html>
 <html>
 
   {% include head.html %}
 
-<body class="index">
+  <body class="index">
 
     {% include header.html %}
-<div class="docs-header" id="content">
-  <div class="container">
-    <h1>Notes</h1>
+    <div class="docs-header" id="content">
+     <div class="container">
+      <h1>Blogs</h1>
       <p>{{ page.header }}</p>
       </div>
     </div>
 
 
 <div class="container docs-container">
-  <div class="col-md-9" role="main">
-
-<div class="container docs-container">
   <div class="row">
     <div class="col-md-3">
       <div class="sidebar hidden-print" role="complementary">
         <div id="navigation">
-        	<h1>Courses</h1>
+        	<h1>Tags</h1>
       		<ul class="nav sidenav">
-				{% if site.courses.first[0] == null %}
-					{% for course in site.courses %} 
-				    	<li><a href="#{{ course }}-ref">
-				    		{{ course | join: "/" }} <span style="color: #999999;" >({{ site.courses[course].size }})</span>
+				{% if site.tags.first[0] == null %}
+					{% for tag in site.tags %} 
+				    	<li><a href="#{{ category }}-ref">
+				    		{{ tag | join: "/" }} <span style="color: #999999;" >({{ site.tags[tag].size }})</span>
 				    	</a></li>
 			    	{% endfor %}
 			  	{% else %}
-			    	{% for course in site.courses %} 
-				    	<li><a href="#{{ course[0] }}-ref">
-				    		{{ course[0] | join: "/" }} <span style="color: #999999;" >({{ course[1].size }})</span>
+			    	{% for tag in site.tags %} 
+				    	<li><a href="#{{ category[0] }}-ref">
+				    		{{ tag[0] | join: "/" }} <span style="color: #999999;" >({{ tag[1].size }})</span>
 				    	</a></li>
 			    	{% endfor %}
 			  	{% endif %}
@@ -48,10 +46,10 @@ header: Posts by Courses
       <div class="panel docs-content">
         <div class="wrapper">
           <div class="home">
-			{% for course in site.courses %} 
-			  <h2 id="{{ course[0] }}-ref">{{ course[0] | join: "/" }}</h2>
+			{% for tag in site.tags %} 
+			  <h2 id="{{ tag[0] }}-ref">{{ tag[0] | join: "/" }}</h2>
 			  <ul>
-			    {% assign pages_list = course[1] %}  
+			    {% assign pages_list = tag[1] %}  
 			    {% include LessOrMore/pages_list %}
 			  </ul>
 			{% endfor %}
@@ -71,3 +69,4 @@ header: Posts by Courses
 
   </body>
 </html>
+
