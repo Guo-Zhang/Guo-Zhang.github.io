@@ -2,7 +2,7 @@
 layout: blog
 title:  Data Analysis with Stata
 date:   2016-10-22
-courses: Stata
+categories: Stata
 ---
 
 # Data Analysis
