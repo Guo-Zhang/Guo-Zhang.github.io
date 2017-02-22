@@ -3,34 +3,33 @@ layout: default
 ---
 
 
-Self-Introduction
------------------
+About Me
+--------
 
-- About me
-  - Junior Undergraduate of WISE, Xiamen University
-  - B.A. in Economics as Major, B.A. in Statistics as Minor, Programming Learner
-  - Preparing for PhD in Computational Economics/ Social Science
-  - Interested in mechanism design of online platforms
+- Junior Undergraduate of WISE, Xiamen University
+- B.A. in Economics as Major, B.A. in Statistics as Minor, Programming Learner
+- Preparing for PhD in Computational Economics/ Social Science
+- Interested in mechanism design of online platforms and computational economics
+
+
+Projects
+--------
+
+- Research Assistant of Prof. Thomas J. Sargent (Nobel Price 2011 in Economics)
+- Founder and Leader of [China's Prices Project at Xiamen University](https://github.com/xmucpp)
+- Co-partner of [Python China](http://python-cn.com)
+- Member of Top Plan in Economics at Xiamen University
 
 
 Research
 --------
-
-- Search Design of China Online Retailers Platforms
-
-
-Blogs
------
-
-- Example
+- [Search Design of China Online Retailers Platforms](/research/#search-design-of-china-online-retailers-platforms)
+- [Making China CPI-Like Daily Online Price Indexes](/research/#making-china-cpi-like-daily-online-price-indexes) 
 
 
-Bookmarks
----------
-
-- Example
-
-
+Resume
+------
+- [Resume](/resume)
 
 <!--
  <div class="container docs-container">

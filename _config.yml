@@ -16,9 +16,9 @@ motto: Guo Zhang
 banner: Undergraduate Accelerated Program in Economics,
         WISE, Xiamen University
 
-#permalink: /:categories/:year/:month/:day/:title/
-#permalink: /:year/:month/:day/:title/
-permalink: /:categories/:title
+# permalink: /:categories/:year/:month/:day/:title/
+# permalink: /:year/:month/:day/:title/
+# permalink: /blog/:categories/:title
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','run.bat','run.sh','help.md']
