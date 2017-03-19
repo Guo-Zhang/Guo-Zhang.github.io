@@ -61,6 +61,12 @@ Coding
   * [Time Series](http://pandas.pydata.org/pandas-docs/stable/timeseries.html)
       * [pandas.to_datetime](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.to_datetime.html)
   * [IO Tools](http://pandas.pydata.org/pandas-docs/stable/io.html)
+  
+
+## Andorid
+
+- [Andorid学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+- [Andorid官方入门指南](https://developer.android.com/training/index.html)
 
 
 Literature
@@ -86,6 +92,9 @@ Tools
 
 - 抓包软件
   * [Charles](http://bbs.utest.qq.com/283)
+
+- 反编译
+  * [apktool](http://www.jianshu.com/p/c90024f61653)
 
 ### Sublime Text 3
 
