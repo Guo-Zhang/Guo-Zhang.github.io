@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Templates
+title: Wiki and Templates
 date: 2017-02-13
-permalink: /templates
+permalink: /wiki
 ---
 
 * content
 {:toc}
 
 
-## LaTeX
+## LaTeX Templates
 
 ### Beamer
 - [beamer](https://github.com/Guo-Zhang/iGuoTemplates/blob/master/beamer.tex)

@@ -33,13 +33,16 @@ Contract Me
 
 ### Address
 
+<!--
+Reference: http://www.bitboost.com/ref/international-address-formats/prc-china/ 
+https://en.wikipedia.org/wiki/Address_(geography)#Address_format
+-->
+
 - Current:
   #406, 4th Buliding, Lingyun Student Apartment, 
   422 Siming South Road, 
   Siming Distinct, Xiamen City, Fujian Province, 
   361005, China  
-   
-
 
 - Native:
   20 Huangying North Lane, 

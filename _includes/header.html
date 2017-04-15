@@ -23,12 +23,22 @@
           <a href="{{ '/' | prepend: site.baseurl }}">Home</a>
         </li>
         <li>
-          <a rel="nofollow" href="{{ '/research' | prepend: site.baseurl }}">My Research</a>
+          <a rel="nofollow" href="{{ '/projects' | prepend: site.baseurl }}">Projects</a>
+        </li>
+        <li class="dropdown">
+          <a href="{{ '/academics' | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">
+          Academics<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+          <li><a rel="nofollow" href="{{ '/lectures' | prepend: site.baseurl }}">Lectures</a></li>
+          <li><a rel="nofollow" href="{{ '/tutorials' | prepend: site.baseurl }}">Tutorials</a></li>
+          <li><a rel="nofollow" href="{{ '/wiki' | prepend: site.baseurl }}">Wiki</a></li>
+          <li><a rel="nofollow" href="{{ '/bookmarks' | prepend: site.baseurl }}">Bookmarks</a></li>
+          </ul>
         </li>
         <li>
-          <a rel="nofollow" href="{{ '/lectures' | prepend: site.baseurl }}">My Lectures</a>
+          <a rel="nofollow" href="{{ '/blogs' | prepend: site.baseurl }}">Blogs</a>
         </li>
-            
+        <!--
         <li class="dropdown">
           <a href="{{ '/blogs' | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">
           My Blogs<b class="caret"></b></a>
@@ -40,13 +50,20 @@
           <li><a rel="nofollow" href="{{ '/bookmarks' | prepend: site.baseurl }}">Bookmarks</a></li>
           </ul>
         </li>
+        -->
       </ul>
       <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a rel="nofollow" href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
+        </li>
+        <li>
+          <a rel="nofollow" href="{{ '/about' | prepend: site.baseurl }}">About</a>
+        </li>
+        <!--
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a rel="nofollow" href="{{ '/about' | prepend: site.baseurl }}">About Me</a></li>
-            <li><a rel="nofollow" href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
             <li><a rel="nofollow" href="{{ '/ps' | prepend: site.baseurl }}">Personal Statement</a></li>
             <li class="divider"></li>
             <li><a rel="nofollow" target="_blank" href="{{site.linkedin}}">Linkedin</a></li>
@@ -54,6 +71,7 @@
             <li><a rel="nofollow" target="_blank" href="{{site.zhihu}}">Zhihu</a></li>
           </ul>
         </li>
+        -->
       </ul>
     </nav>
   </div>

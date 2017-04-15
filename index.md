@@ -15,19 +15,21 @@ About Me
 - Interested in mechanism design of online platforms and computational economics
 
 
-Projects
+Projects and Research
 --------
 
 - Research Assistant of Prof. Thomas J. Sargent (Nobel Price 2011 in Economics)
-- Founder and Leader of [China's Prices Project at Xiamen University](https://github.com/xmucpp)
-- Co-partner of [Python China](http://python-cn.com)
+- Contributor of [QuantEcon.py](https://quantecon.org/python_index.html)
+- Founder and Team Leader of [China's Prices Project at Xiamen University](https://github.com/xmucpp)
+  - [Search Design of China Online Retailers Platforms](/projects)
+  - [Making China CPI-Like Daily Online Price Indexes](/projects) 
 - Member of Top Plan in Economics at Xiamen University
 
 
-Research
---------
-- [Search Design of China Online Retailers Platforms](/research/#search-design-of-china-online-retailers-platforms)
-- [Making China CPI-Like Daily Online Price Indexes](/research/#making-china-cpi-like-daily-online-price-indexes) 
+Lectures and Presentations
+-------
+
+- To do
 
 
 Resume

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bookmarks
-permalink: /bookmarks/
+permalink: /bookmarks
 ---
 
 * content
