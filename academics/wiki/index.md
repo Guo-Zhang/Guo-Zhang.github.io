@@ -53,6 +53,12 @@ Computer Science and Software Engineering
       * [pandas.to_datetime](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.to_datetime.html)
   * [IO Tools](http://pandas.pydata.org/pandas-docs/stable/io.html)
 
+#### 进度条
+
+- tqdm
+  * [tqdm](https://github.com/tqdm/tqdm)
+  * [原理](http://blog.ernest.me/post/python-progress-bar)
+
 ### MongoDB
 
 - Quick Start
@@ -89,6 +95,10 @@ Computer Science and Software Engineering
   * [JavaScript 教程\|菜鸟教程](http://www.runoob.com/js/js-tutorial.html)
 
 ### Tools
+#### PyCharm
+
+- [Python IDE：PyCharm中的那些实用功能](http://blog.jobbole.com/51498/)
+
 #### Sublime Text 3
 
 - [LaTeXing](http://www.latexing.com/)
@@ -127,4 +137,6 @@ Applications
 
 ### Resume
 - [The Markdown Resume](https://mszep.github.io/pandoc_resume/)
+- [我的英文简历写作心得-豆瓣](https://www.douban.com/group/topic/16697101/)
+- [Career and Professional Development](http://www.career.vt.edu)
 
