@@ -30,12 +30,15 @@ nav{
   padding: 0 !important;
 }
 
-.left a {
-  padding:20px 30px 20px 0 !important;
+
+.navbar-right {
+  position: relative;
+  right: -15px;
 }
 
-.navbar-right a{
-  padding: 20px 0 10px 20px !important;
+.left{
+  position: relative;
+  left: -15px;
 }
 
 @media screen and (max-width: 769){
@@ -53,8 +56,9 @@ nav{
 
 }
 
-#description{
-  padding-left: 2rem !important;
+#blog-nav-container{
+  position: relative;
+  left: -30px; 
 }
 /*.right-tree-wrapper{
   background: #fff;
@@ -3312,7 +3316,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .docs-nav .navbar-nav > li > span {
   position: relative;
   display: block;
-  padding: 10px 0;
+  padding: 10px 15px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
