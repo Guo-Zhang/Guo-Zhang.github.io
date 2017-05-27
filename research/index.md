@@ -1,15 +1,31 @@
 ---
 layout: post
-title: Projects and Research 
+title: My Research 
 date: 2017-04-15
-permalink: /projects
+permalink: /research
 ---
 
 * content
 {:toc}
 
 
-# My Projects
+# Papers and Essays
+## Working Papers
+
+- [Consumer Quality Search on Online Platforms: A Structural Approach](https://github.com/Guo-Zhang/MyPapers/blob/master/Working%20Paper%202017%20-%20Online%20Quality%20Search/online_quality_search_slides.pdf), work in progress
+
+- [Stylized Facts of Price Patterns on China Online Retailer Platforms](https://github.com/Guo-Zhang/MyPapers/blob/master/Working%20Paper%202017%20-%20Online%20Price%20Patterns/online_price_patterns_paper.pdf), work in progress
+
+- [Making China Online Daily Price Indexes with Scraped Data](https://github.com/Guo-Zhang/MyPapers/blob/master/Working%20Paper%202016%20-%20Online%20Price%20Indexes/online_price_indexes_paper.pdf), work in progress
+
+
+## Essays
+
+- [Literature Review of "Consumer Price Search and Platform Design in Internet Commerce"](https://github.com/Guo-Zhang/MyPapers/blob/master/Working%20Paper%202017%20-%20Online%20Quality%20Search/Essays/literature_review_online_price_search.pdf), working in progress, 2017
+- [Platform Sorting Algorithms and Consumer Consideration Set](https://github.com/Guo-Zhang/MyPapers/blob/master/Working%20Paper%202017%20-%20Online%20Quality%20Search/Essays/platform_algorithm_and_consideration_set.pdf), work in progress, 2017
+
+
+# Projects
 
 -----
 
@@ -31,11 +47,11 @@ permalink: /projects
 
 
 - **Subject**: Making China CPI-Like Daily Online Price Indexes with Scraped Data
-- Schedule: Feb. 2016 ~ Present
-- Role: First Author, Project Founder & Leader
-- Proposal: [Proposal]({{ site.url }}/files/projects/xmucpp/proposal_online_index_zh-cn.pdf)
-- Results:
-  - [Summary Statistics of Prices (Jupyter Notebook)](https://github.com/xmucpp/cpp-descriptive-statistics/blob/master/Tmall_618_price_changes.ipynb)
+- **Schedule**: Feb. 2016 ~ Present
+- **Role**: First Author, Project Founder & Leader
+- **Proposal**: [Proposal]({{ site.url }}/files/projects/xmucpp/proposal_online_index_zh-cn.pdf)
+- **Notebook**:
+  - [Summary Statistics of 618 Tmall Prices (Jupyter Notebook)](https://github.com/xmucpp/cpp-descriptive-statistics/blob/master/Tmall_618_price_changes.ipynb)
 
 ------
 
@@ -116,9 +132,4 @@ permalink: /projects
 ----
 
 
-# My Research
-
-------
-
-- To do
 
