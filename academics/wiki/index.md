@@ -106,10 +106,13 @@ Computer Science and Software Engineering
 
 - [用 Python 实现一个大数据搜索引擎](http://python.jobbole.com/88921/)
 
-##### NoSQL
+#### NoSQL
 
 - [用 Python 写一个 NoSQL 数据库](http://python.jobbole.com/87797/)
 
+#### 信息管理系统
+
+- [基于Django的Python信息管理系统](https://github.com/ladder1984/DJangoHotel_Python)
 
 ### R
 
@@ -135,6 +138,7 @@ Computer Science and Software Engineering
 - data.table并行
   * [Stackoverflow: data.table and parallel computing](https://stackoverflow.com/questions/14759905/data-table-and-parallel-computing)
   * [Stackoverflow: speed up data.table group by](https://stackoverflow.com/questions/19082794/speed-up-data-table-group-by-using-multiple-cores-and-parallel-programming)
+
 
 ### MongoDB
 
