@@ -139,11 +139,16 @@ Computer Science and Software Engineering
   * [Stackoverflow: data.table and parallel computing](https://stackoverflow.com/questions/14759905/data-table-and-parallel-computing)
   * [Stackoverflow: speed up data.table group by](https://stackoverflow.com/questions/19082794/speed-up-data-table-group-by-using-multiple-cores-and-parallel-programming)
 
+### SQL
+
+- Quick Start
+  * [SQL教程\|W3School](http://www.w3school.com.cn/sql/)
+  * [SQL教程\|菜鸟教程](http://www.runoob.com/sql/sql-tutorial.html)
 
 ### MongoDB
 
 - Quick Start
-  * [MongoDB 教程\|菜鸟教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)
+  * [MongoDB教程\|菜鸟教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)
 
 - [PyMongo Documentation](http://api.mongodb.com/python/current/)
   * [Aggregation Framework](http://api.mongodb.com/python/current/examples/aggregation.html#aggregation-framework)
