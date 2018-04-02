@@ -9,7 +9,8 @@ layout: post
 Self-Introduction
 --------
 
-- Founder, Chairman and CEO, China's Prices Project(QuantTide Inc.)
+- Founder, Chairman and CEO, China's Prices Project (QuantTide Inc.)
+- Undergraduate Accelerated Program in Economics, WISE, Xiamen University
 
 
 News
