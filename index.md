@@ -6,35 +6,18 @@ layout: post
 {:toc}
 
 
-About Me
+Self-Introduction
 --------
 
-- Junior Undergraduate of WISE, Xiamen University
-- B.A. in Economics as Major, B.A. in Statistics as Minor, Programming Learner
-- Preparing for PhD in Computational Economics/ Social Science
-- Interested in mechanism design of online platforms and computational economics
+- Founder, Chairman and CEO, China's Prices Project(QuantTide Inc.)
 
 
-Projects and Research
+News
 --------
 
-- Research Assistant of Prof. Thomas J. Sargent (Nobel Price 2011 in Economics)
-- Contributor of [QuantEcon.py](https://quantecon.org/python_index.html)
-- Founder and Team Leader of [China's Prices Project at Xiamen University](https://github.com/xmucpp)
-  - [Search Design of China Online Retailers Platforms](/projects)
-  - [Making China CPI-Like Daily Online Price Indexes](/projects) 
-- Member of Top Plan in Economics at Xiamen University
+- [Startup Sharing](/files/presentations/startup_2018-04-02.pdf)
 
 
-Lectures and Presentations
--------
-
-- To do
-
-
-Resume
-------
-- [Resume](/resume)
 
 <!--
  <div class="container docs-container">
